@@ -10,13 +10,13 @@ O dashboard foi estruturado para responder a perguntas críticas de negócio, co
 
 Nesta visão, focamos nos KPIs principais de faturamento e volume total vendido.
 
-<img src="IMAGEM DO DASH.jpg" width="900">
+<img src="IMAGEM DO DASH.png" width="900">
 
 2. Análise de Devoluções e Performance por Categoria
 
 A segunda visão detalha o comportamento dos produtos, identificando padrões de perda e os itens de maior sucesso comercial.
 
-<img src="IMAGEM DE FILTRO.jpg" width="900">
+<img src="IMAGEM DE FILTRO.png" width="900">
 
 **🛠️ Tecnologias e Ferramentas**
 
